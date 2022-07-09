@@ -202,10 +202,10 @@
     }
     .section_1 > h1 {
         padding-top: 10rem;
-        font-size: 1.8rem;
+        font-size: 2.8rem;
     }
     .section_1 > p {
-        font-size: 0.9rem;
+        font-size: 1.9rem;
     }
     .cloud{
         height: 35px;
@@ -220,7 +220,7 @@
         top: 55%;
     }
     .mountain{
-        top: 52%;
+        top: 50%;
         left: 5%;
         width: 320px;
         height: 250px;
