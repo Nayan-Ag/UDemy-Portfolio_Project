@@ -187,7 +187,7 @@
 
 /* Responsive :- Mobile  */
 
-@media (max-width : 420px) {
+@media only screen and (max-width : 600px) {
 
 
     /* Section_1  */
